@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="signup">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="gender_m">Male</string>
+    <string name="gender_f">Female</string>
+    <string name="gender_o">Others</string>
+    <string-array name="countries">
+        <item>Nepal</item>
+        <item>India</item>
+        <item>China</item>
+        <item>Bangladesh</item>
+        <item>USA</item>
+        <item>Canada</item>
+        <item>England</item>
+        <item>Portugal</item>
+        <item>Cyprus</item>
+        <item>Mali</item>
+        <item>Nigeria</item>
+    </string-array>
+</resources>
