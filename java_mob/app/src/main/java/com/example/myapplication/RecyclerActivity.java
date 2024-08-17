@@ -28,7 +28,7 @@ public class RecyclerActivity extends AppCompatActivity {
         userList.add(new User("Shyam", 25, 175.0f, "shyam@gmail.com", 9876543210L));
         userList.add(new User("Sita", 18, 170.0f, "sita@gmail.com", 9876543210L));
         userList.add(new User("Geeta", 20, 165.0f, "geeta@gmail.com", 9876543210L));
-        // Add more users as needed
+
 
         UserAdapter adapter = new UserAdapter(userList);
         recyclerView.setAdapter(adapter);
